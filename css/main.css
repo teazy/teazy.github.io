@@ -1,0 +1,14 @@
+body {
+	background-color: #00A896;
+}
+
+p { 
+font-family: 'Miriam Libre', sans-serif; 
+}
+
+#about-me-wrap {
+	background-color: #fff; 
+	padding: 50px;
+	width: 60%;
+	margin: 100px auto;
+}
